@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="up_left">#222830</color>
+    <color name="up_center">#222830</color>
+    <color name="up_right">#222830</color>
+    <color name="center_left">#222830</color>
+    <color name="center">#f4841a </color>
+    <color name="center_right">#222830</color>
+    <color name="bottom_left">#222830</color>
+    <color name="bottom_center">#222830</color>
+    <color name="bottom_right">#222830</color>
+
+    <array name="standart">
+
+        <item>#2d4a05</item>
+        <item>#738830</item>
+        <item>#fd742d</item>
+        <item>#dc0f0f </item>
+        <item>#5e0000 </item>
+        <item>#483df6 </item>
+
+        <item>#a15301 </item>
+        <item>#b9d5fd </item>
+        <item>#709fdc </item>
+        <item>#274684</item>
+        <item>#071739</item>
+        <item>#593780 </item>
+
+        <item>#b7467c </item>
+        <item>#e7839b </item>
+        <item>#00525e</item>
+        <item>#ADFF2F </item>
+        <item>#dfa90d </item>
+        <item>#3baf1d </item>
+
+        <item>#2d4a05</item>
+        <item>#738830</item>
+        <item>#fd742d</item>
+        <item>#dc0f0f </item>
+        <item>#5e0000 </item>
+        <item>#483df6 </item>
+
+        <item>#a15301 </item>
+        <item>#b9d5fd </item>
+        <item>#709fdc </item>
+        <item>#274684</item>
+        <item>#071739</item>
+        <item>#593780 </item>
+
+        <item>#b7467c </item>
+        <item>#e7839b </item>
+        <item>#00525e</item>
+        <item>#ADFF2F </item>
+        <item>#dfa90d </item>
+        <item>#3baf1d </item>
+    </array>
+
+</resources>

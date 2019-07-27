@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Найди Квадрат</string>
+    <string name="logo">Найди Квадрат</string>
+    <string name="help_text">Найди Квадрат - игра, где вам требуется найти определенный цвет на время.</string>
+    <string name="game_score">Счёт : </string>
+    <string name="score_value">0</string>
+    <string name="game_time">Время : </string>
+    <string name="game_target">Цель</string>
+    <string name="game_over">Игра окончена :(</string>
+    <string name="your_score">Ваш счёт: </string>
+    <string name="choose_mode">Выберите режим игры</string>
+    <string name="your_best_score">Ваш лучший счет: </string>
+
+    <string name="start_btn">Старт</string>
+    <string name="help_btn">Помощь</string>
+    <string name="exit_btn">Выход</string>
+    <string name="training_btn">Tренировка</string>
+    <string name="game_btn">На время</string>
+    <string name="back_btn">Назад</string>
+    <string name="retry_btn">Еще раз</string>
+    <string name="king_score">Король</string>
+    <string name="light_mode">Светлая тема</string>
+    <string name="dark_mode">Тёмная тема</string>
+
+</resources>

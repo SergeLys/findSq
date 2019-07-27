@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.HelpActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <GridLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:rowCount="3"
+            android:columnCount="3"
+            android:layout_marginTop="50dp"
+            android:layout_gravity="center_horizontal">
+
+            <LinearLayout
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:layout_margin="1dp"
+                android:background="@color/up_left"/>
+            <LinearLayout
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:layout_margin="1dp"
+                android:background="@color/up_center"/>
+            <LinearLayout
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:layout_margin="1dp"
+                android:background="@color/up_right"/>
+            <LinearLayout
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:layout_margin="1dp"
+                android:background="@color/center_left"/>
+            <LinearLayout
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:layout_margin="1dp"
+                android:background="@color/center"/>
+            <LinearLayout
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:layout_margin="1dp"
+                android:background="@color/center_right"/>
+            <LinearLayout
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:layout_margin="1dp"
+                android:background="@color/bottom_left"/>
+            <LinearLayout
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:layout_margin="1dp"
+                android:background="@color/bottom_center"/>
+            <LinearLayout
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:layout_margin="1dp"
+                android:background="@color/bottom_right"/>
+        </GridLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/logo"
+            android:textStyle="bold"
+            android:textSize="45sp"
+            android:textColor="@android:color/black"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="30dp"/>
+
+        <TextView
+            android:id="@+id/help_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/help_text"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="60dp"
+            />
+
+        <Button
+            android:onClick="clickBackBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/back_btn"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:background="@drawable/button_bkg"
+            android:textAllCaps="false"
+            />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
