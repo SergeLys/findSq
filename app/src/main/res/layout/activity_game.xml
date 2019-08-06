@@ -16,7 +16,7 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal"
             android:layout_marginTop="20dp"
-            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
             android:layout_marginBottom="10dp">
 
             <TextView
@@ -35,7 +35,7 @@
                 android:textColor="@android:color/black"
                 android:textSize="20sp"
                 android:textStyle="bold"
-                android:layout_marginLeft="5dp"/>
+                android:layout_marginStart="5dp"/>
 
         </LinearLayout>
 
@@ -80,7 +80,7 @@
                 android:textColor="@android:color/black"
                 android:textSize="20sp"
                 android:textStyle="bold"
-                android:layout_marginRight="10dp"
+                android:layout_marginEnd="10dp"
                 android:layout_gravity="center"/>
             <ImageButton
                 android:id="@+id/target_square"
