@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Найди Квадрат</string>
     <string name="logo">Найди Квадрат</string>
-    <string name="help_text">Найди Квадрат - игра, где вам требуется найти определенный цвет на время.</string>
+    <string name="help_text">Найди Квадрат - игра, где вам требуется найти квадрат с определенным цветом на время.</string>
     <string name="game_score">Счёт : </string>
     <string name="score_value">0</string>
     <string name="game_time">Время : </string>
