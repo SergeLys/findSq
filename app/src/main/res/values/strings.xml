@@ -22,4 +22,6 @@
     <string name="light_mode">Light mode</string>
     <string name="dark_mode">Dark mode</string>
 
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-2633165848097716/2107975827</string>
+
 </resources>

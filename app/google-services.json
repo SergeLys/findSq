@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "359367763061",
+    "firebase_url": "https://squares-e0ba2.firebaseio.com",
+    "project_id": "squares-e0ba2",
+    "storage_bucket": "squares-e0ba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359367763061:android:f46d56b22528052e",
+        "android_client_info": {
+          "package_name": "com.squares"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359367763061-v02dg8nm76orog706n8gus6mqtbmh325.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.squares",
+            "certificate_hash": "57403addec9c90d20ec3ab2cd829c8f203bb240c"
+          }
+        },
+        {
+          "client_id": "359367763061-tiujnalk15o874us9ddej9ch2ormtr4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm7IjTpW3pESEUpPd4GHxRwP6cWxoU1U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359367763061-tiujnalk15o874us9ddej9ch2ormtr4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
